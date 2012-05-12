@@ -509,3 +509,33 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.
 
 !ENTRY com.google.gwt.eclipse.core 2 0 2012-05-12 21:01:25.577
 !MESSAGE Could not check whether the launch configuration "JAP4" needs the -XstartOnFirstThread argument, assuming it does
+
+!ENTRY com.google.gwt.eclipse.core 2 0 2012-05-12 21:13:00.657
+!MESSAGE Could not check whether the launch configuration "JAP5" needs the -XstartOnFirstThread argument, assuming it does
+
+!ENTRY com.google.gwt.eclipse.core 2 0 2012-05-12 21:13:00.927
+!MESSAGE Could not check whether the launch configuration "JAP5" needs the -XstartOnFirstThread argument, assuming it does
+
+!ENTRY com.google.gwt.eclipse.core 2 0 2012-05-12 21:13:00.958
+!MESSAGE Could not check whether the launch configuration "JAP5" needs the -XstartOnFirstThread argument, assuming it does
+
+!ENTRY com.google.gwt.eclipse.core 2 0 2012-05-12 21:13:01.018
+!MESSAGE Could not check whether the launch configuration "JAP5" needs the -XstartOnFirstThread argument, assuming it does
+
+!ENTRY com.google.gwt.eclipse.core 2 0 2012-05-12 21:13:01.059
+!MESSAGE Could not check whether the launch configuration "JAP5" needs the -XstartOnFirstThread argument, assuming it does
+
+!ENTRY com.google.gwt.eclipse.core 2 0 2012-05-12 21:13:01.122
+!MESSAGE Could not check whether the launch configuration "JAP5" needs the -XstartOnFirstThread argument, assuming it does
+
+!ENTRY com.google.gwt.eclipse.core 2 0 2012-05-12 21:13:01.156
+!MESSAGE Could not check whether the launch configuration "JAP5" needs the -XstartOnFirstThread argument, assuming it does
+
+!ENTRY com.google.gwt.eclipse.core 2 0 2012-05-12 21:13:01.189
+!MESSAGE Could not check whether the launch configuration "JAP5" needs the -XstartOnFirstThread argument, assuming it does
+
+!ENTRY com.google.gwt.eclipse.core 2 0 2012-05-12 21:13:03.343
+!MESSAGE Could not check whether the launch configuration "JAP5" needs the -XstartOnFirstThread argument, assuming it does
+
+!ENTRY com.google.gwt.eclipse.core 2 0 2012-05-12 21:13:35.358
+!MESSAGE Could not check whether the launch configuration "JAP5" needs the -XstartOnFirstThread argument, assuming it does
